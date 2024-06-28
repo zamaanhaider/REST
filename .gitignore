@@ -1,0 +1,2 @@
+# Ignore application.properties to prevent committing credentials
+application.properties
